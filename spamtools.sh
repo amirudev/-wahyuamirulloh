@@ -6,11 +6,13 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SpamTools"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m Tools yang tersedia saat ini"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1m Follow Instagram @wahyuamirulloh""\033[36;1m★"
+sleep 1
+echo "\033[33;1m Resiko ditanggung pengguna, Gunakanlah secara bijak !"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -35,7 +37,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 1
 fi
 
@@ -51,7 +53,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 2.php
 fi
 
@@ -66,7 +68,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 3.php
 fi
 
@@ -81,7 +83,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 4.php
 fi
 
@@ -100,7 +102,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 5.php
 fi
 
@@ -114,7 +116,7 @@ echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
 echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
 sleep 5
-cd $HOME/LITESPAM/Tul/
+cd $HOME/spamtools/Tul/
 php 6.php
 fi
 
@@ -163,11 +165,12 @@ echo "ChandraAditya"
 echo "Secoly Indonesia"
 echo "BlackHole Security"
 echo "Association Indonesian Right Wings"
+echo "Wahyu Amirulloh"
 sleep 1
 echo "And All Member Indonesia Security Lite"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh spamtools.sh
 fi
 
 
